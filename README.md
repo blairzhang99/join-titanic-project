@@ -1,5 +1,5 @@
 ### Project Description
-This is a beginner tutorial to navigate through terminal, GitHub repos and python notebooks. The Titanic project is a classic prediction project to use machine learning form disaster.
+This is a beginner tutorial to navigate through terminal, GitHub repos and python notebooks. It is a classic prediction project using random forest model to predict survival rate from disaster.
 
 
 
